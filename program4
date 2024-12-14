@@ -75,3 +75,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
+in Android.Manifest xml 
+<uses-permission android:name="android.permission.SET_WALLPAPER"/>
+if error put . in place of colon 
+
