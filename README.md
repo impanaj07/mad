@@ -1,2 +1,2 @@
 # mad
-This is a repository that consits of the code for the food recipe application
+This is a repository that consists of the code for the food recipe application
